@@ -1,11 +1,14 @@
-# Blueberry phpMyAdmin Theme
+# RixetBD phpMyAdmin Theme
 
-[Blueberry](https://github.com/movahhedi/blueberry-pma-theme) is a modern dark theme for phpMyAdmin, based on "pmahomme" theme (The default theme in phpMyAdmin).
+### Screenshots
+![Screenshot](screen.png)
+
+[RixetBD](https://github.com/rixetbd/rixetbd-phpmyadmin-theme) is a modern dark theme for phpMyAdmin, based on "pmahomme" theme (The default theme in phpMyAdmin).
 
 Developed by **Shahab Movahhedi**
-- Site: [shmovahhedi.com](https://shmovahhedi.com)
-- Email: [dev@shmovahhedi.com](mailto:dev@shmovahhedi.com)
-- GitHub: [@movahhedi](https://github.com/movahhedi)
+- Site: [rixetbd.com](https://rixetbd.com)
+- Email: [rixetbd@gmail.com](mailto:rixetbd@gmail.com)
+- GitHub: [@rixetbd](https://github.com/rixetbd)
 
 ### Development and Copyrights
 
@@ -20,7 +23,4 @@ My custom [jQuery UI v1.13.1](http://jqueryui.com) CSS is also used. Check it ou
 
 ### Any Ideas?
 
-Tell me your ideas as an Issue at [https://github.com/movahhedi/blueberry-pma-theme/issues](https://github.com/movahhedi/blueberry-pma-theme/issues)
-
-### Screenshots
-![Screenshot](screen.png)
+Tell me your ideas as an Issue at [https://github.com/rixetbd/rixetbd-phpmyadmin-theme](https://github.com/rixetbd/rixetbd-phpmyadmin-theme)
